@@ -5,6 +5,7 @@
 📁 Estructura del Proyecto
 
 📦 Proyecto-Mburicao/
+
  ┣ 📂 data/               → Conjuntos de datos (precipitaciones, niveles de agua, etc.)
 
  ┣ 📂 docs/visualizacion/ → Visualizaciones y gráficos
